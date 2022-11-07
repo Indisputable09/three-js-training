@@ -1,5 +1,3 @@
-import { ConeGeometry } from 'three';
-import { MeshBasicMaterial } from 'three';
 import {
   Scene,
   PerspectiveCamera,
